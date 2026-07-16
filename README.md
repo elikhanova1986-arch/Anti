@@ -1,3 +1,12 @@
+#subscription-userinfo: upload=17; download=0; total=0; expire=999999999999999
+#profile-title: Резерв Антиглушилка 
+#profile-update-interval: 1
+#subscription-update-interval: 1
+#announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
+#support-url: https://wa.me/79659571323
+#profile-web-page-url: https://wa.me/79639864491
+#sort-order: ping
+
 #subscription-update-interval: 1
 
 
