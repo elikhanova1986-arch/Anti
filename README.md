@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=11; download=0; total=0; expire=999999999999999
-#profile-title: Sulim VPN Anti
+#profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍 🛩️ 𝐀𝐧𝐭𝐢𝐆𝐥𝐮𝐬𝐡𝐢𝐥𝐤𝐚
 #profile-update-interval: 1
 #subscription-update-interval: 1
 #announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!
