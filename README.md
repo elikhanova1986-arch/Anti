@@ -178,3 +178,15 @@ vless://634c6633-dec1-4a80-a1d5-b93b9c9ac5e8@91.231.236.51:443?encryption=none&t
 
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0%2064
 
+
+hysteria2://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@casto.ktell.net:3003?sni=casto.ktell.net&alpn=h3#🇪🇺 Антиглушилка 65
+hysteria2://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@ktell.net:3009?sni=ktell.net&alpn=h3#🇪🇺 Антиглушилка 66
+hysteria2://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@46.8.210.73:3008?sni=wazuh.ktell.net&alpn=h3#🇪🇺 Антиглушилка 67
+hysteria2://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@46.8.210.124:18?sni=&alpn=h3#🇪🇺 Антиглушилка 68
+vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@gb-s3.kintuso.com:443?type=tcp&security=tls&flow=xtls-rprx-vision&encryption=none&sni=gb-s3.kintuso.com&alpn=h2%2Chttp%2F1.1&fp=firefox#🇪🇺 Антиглушилка 69
+hysteria2://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@194.55.239.209:15000?sni=194.55.239.209&alpn=h3#🇪🇺 Антиглушилка 70
+hysteria2://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@mirage.flowwowdev.com:20000?sni=mirage.flowwowdev.com&alpn=h3#🇪🇺 Антиглушилка 71
+vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@194.55.239.196:443?type=grpc&security=reality&encryption=mlkem768x25519plus.native.0rtt.fNPXB2tW2X4cdch9ENh_G6Chyv0iXAObthHbvZGRXV4&sni=tickets.widget.kinopoisk.ru&pbk=4tHVVwVTzn6IDg76_4jOwhp-UGTRNZCeU1aUEiyCESg&fp=random#🇪🇺 Антиглушилка 72
+vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@194.55.239.198:443?type=grpc&security=reality&encryption=mlkem768x25519plus.native.0rtt.qexUKPNzH28RLmcWe0rG7PDbImcSv68J4ZCOLlFr3yg&sni=cargo.rzd.ru&pbk=tXAJOGLB8jKYsGz_BZfqB01S1y6jd7UyimBAlukVSVw&fp=random#🇪🇺 Антиглушилка 73
+vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@static.kintuso.com:443?type=tcp&security=tls&flow=xtls-rprx-vision&encryption=none&sni=static.kintuso.com&alpn=h2%2Chttp%2F1.1&fp=firefox#🇪🇺 Антиглушилка 74
+
