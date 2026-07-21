@@ -17,7 +17,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jD9wKG_3q01SLJrWy62FysSN2MbrceqrXGP2q7L9TTs&sid=a0658f9f&spx=%2F&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A3%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
-vless://3f107c06-7a5a-4c85-8dde-bbdc5f03b474@109.122.196.14:8443?encryption=none&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=_2uKK9fIAM9n0P49ahzzyeD1FxDt3UyXyy_EK6ZLwgE&spx=%2F&flow=xtls-rprx-vision&type=tcp#🇮🇹 Италия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@45.157.234.98:443?type=grpc&mode=gun&serviceName=grpc-tunnel&security=reality&fp=firefox&sni=dl.google.com&pbk=LW2nHHoPnEZVJ9v-HcNPZjJcB_RrpxK2_MuYtAohUGs&sid=7fbe972273bb1e4a#🇮🇹 Италия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@nl3.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl3.freeinternat.com&fp=random&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=%2F#🇳🇱 Нидерланды?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
