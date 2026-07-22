@@ -215,7 +215,7 @@ vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@81.163.23.185:8443?type=grpc&securi
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@81.163.23.243:8443?type=grpc&security=reality&encryption=none&sni=id.pervye.ru&pbk=K9vJ2zLFxi3VTmrguyLC1KrC920axeFSeA8x_xY4Xhw&fp=firefox&serviceName=ns&authority=id.pervye.ru#🇪🇺 Антиглушилка 104?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
 
 
-hysteria2://09f76081-4c62-4adf-b2fb-5c180fe51bf2@v7.cloudvk.cc:443?sni=v7.cloudvk.cc&alpn=h3#vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@81.163.23.158:8443?type=grpc&security=reality&encryption=none&sni=id.pervye.ru&pbk=K9vJ2zLFxi3VTmrguyLC1KrC920axeFSeA8x_xY4Xhw&fp=firefox&serviceName=ns&authority=id.pervye.ru#🇪🇺 Антиглушилка 105?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/
+hysteria2://09f76081-4c62-4adf-b2fb-5c180fe51bf2@v7.cloudvk.cc:443?sni=v7.cloudvk.cc&alpn=h3#🇪🇺 Антиглушилка 105?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/
 
 
 
