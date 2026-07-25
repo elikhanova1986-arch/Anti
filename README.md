@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=11; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=0001; download=0; total=0; expire=1815696000
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍 🛩️ 𝐀𝐧𝐭𝐢𝐆𝐥𝐮𝐬𝐡𝐢𝐥𝐤𝐚
 #profile-update-interval: 1
 #subscription-update-interval: 1
