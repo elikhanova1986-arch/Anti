@@ -31,7 +31,7 @@ vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@est2.freeinternat.com:443?encryptio
 
 
 
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@cz.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cz.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F#🇫🇮 Финляндия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://3f107c06-7a5a-4c85-8dde-bbdc5f03b474@138.124.32.113:8443?encryption=none&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=_2uKK9fIAM9n0P49ahzzyeD1FxDt3UyXyy_EK6ZLwgE&spx=%2F&type=tcp&flow=xtls-rprx-vision#🇫🇮 Финляндия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@ang.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ang.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F#🇪🇺 Европа?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
