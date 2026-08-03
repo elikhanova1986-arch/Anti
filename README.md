@@ -31,15 +31,16 @@ vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&s
 
 
 
-vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@secure-calai-login.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=secure-calai-login.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇪🇪 Эстония?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv7.yunus.guru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rezerv7.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#🇪🇪 Эстония?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 
-vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@filetransver-ultra.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=filetransver-ultra.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇫🇮 Финляндия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@gb1.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gb1.murhost.network&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&sid=84f9881951050a30#🇫🇮 Финляндия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
-vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@rknporks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rknporks.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇪🇺 Европа?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@nl2.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl2.murhost.network&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&sid=bbab5af2663db00a#🇪🇺 Европа?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
+vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@ch1.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ch1.murhost.network&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6#🇨🇿 Чехия [Gemini 🤖] 
 
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@45.145.40.162:443?encryption=none&security=reality&fp=qq&pbk=ysoFZHGTbe5lg9yfdp8M7VxdAqPA65oKydUsbkyxQlg&sid=35c0eeec68c37745&sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&mode=multi#🇳🇱 Нидерланды?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
