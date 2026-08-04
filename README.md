@@ -37,6 +37,7 @@ vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@gb1.murhost.network:443?flow=xtls-r
 
 vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@nl2.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl2.murhost.network&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&sid=bbab5af2663db00a#🇪🇺 Европа?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@swed2.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=swed2.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@92.42.15.243:443?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&serviceName=grpc-tunnel&mode=multi#🇷🇺 Ютуб без рекламы?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
