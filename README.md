@@ -15,9 +15,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 #color-profile: eyJiYWNrZ3JvdW5kR3JhZGllbnRSb3RhdGlvbkFuZ2xlIjozNy4xLCJzZXJ2ZXJSb3dCYWNrZ3JvdW5kQ29sb3IiOiIjMEQxRDMwRkYiLCJzdWJzSGVhZGVyQ29sb3IiOiIjMDA0RjdGRkYiLCJwcm9maWxlV2ViUGFnZUljb25Db2xvciI6IiNGRUZGRUZGRiIsInNlbGVjdGVkU2VydmVyUm93Q29sb3IiOiIjMDA0RjdGQjUiLCJkaXNjbG9zdXJlU3ViSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uVGV4dENvbG9yIjoiIzAwQzg1M0ZGIiwiYnV0dG9uVGltZXJDb2xvciI6IiMwMEM4NTNGRiIsInN1YnNjcmlwdGlvbkluZm9CYWNrZ3JvdW5kQ29sb3IiOiIjMDA0RjdGRkYiLCJiYWNrZ3JvdW5kQ29sb3JzIjpbIiMwQzE4MzBGRiIsIiMxQzI4NDBGRiIsIiMyQzM4NTBGRiJdLCJkaXNjbG9zdXJlSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYmFja2dyb3VuZEdyYWRpZW50Q29sb3JJbnRlbnNpdHkiOjEsImFkZGl0aW9uYWxPcHRpb25zQnV0dG9uQ29sb3IiOiIjRkVGRkVGRkYiLCJidXR0b25JbWFnZVR5cGUiOiJkYXJrIiwic2VydmVyUm93U3ViVGl0bGVUZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzdXBwb3J0SWNvbkNvbG9yIjoiI0ZGRkZGRkZGIiwidG9wQmFyQnV0dG9uc0NvbG9yIjoiI0ZGRkZGRkZGIiwic3Vic2NyaXB0aW9uVHJhZmZpY0JhY2tncm91bmRDb2xvciI6IiMwMDNFQkVGRiIsInN1YkhlYWRlckJ1dHRvbkNvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uQ29sb3IiOiIjMUUxRTFFRkYiLCJwb3dlckljb25Db2xvciI6IiNGRUZGRUZGRiIsInN1YnNjcmlwdGlvbkluZm9UZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzZXJ2ZXJSb3dUaXRsZVRleHRDb2xvciI6IiNGRUZGRUZGRiIsImJhY2tncm91bmRJbWFnZVR5cGUiOiJzeXN0ZW0iLCJlbGlwc2VDb2xvcnMiOlsiIzAwNDdFOEZGIiwiIzAwM0JCRUZGIiwiRkVGRkVGRkZGIiwiaW1hZ2U6OiJdLCJzZXJ2ZXJSb3dDaGV2cm9uQ29sb3IiOiIjRkVGRkVGRkYifQ==
 
 
-vless://3f107c06-7a5a-4c85-8dde-bbdc5f03b474@138.124.32.113:8443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=_2uKK9fIAM9n0P49ahzzyeD1FxDt3UyXyy_EK6ZLwgE&sni=addons.mozilla.org&spx=%2F&type=tcp#🇪🇺🌍 Авто | Быстрый?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
-
-vless://7dc0d759-baf9-47ca-b838-f258c09d1d5b@103.119.18.140:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=Y9yzW20LHQobmMOos-V2JA8Sl876Bt9urixbgY9Idho&sid=451f052a&spx=%2F&type=tcp&sni=#🇨🇿 Основной (ИИ)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://f7342ae8-1bee-4f62-9ee1-d57e742c6110@node-sg-1.v2sv.top:2053?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=temu.com&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&spx=/#🇪🇺🌍 Авто | Быстрый?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jD9wKG_3q01SLJrWy62FysSN2MbrceqrXGP2q7L9TTs&sid=a0658f9f&spx=%2F&type=tcp#🇷🇺 Игровой?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
@@ -31,7 +29,6 @@ vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&s
 
 
 
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv7.yunus.guru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rezerv7.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#🇪🇪 Эстония?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 
@@ -39,10 +36,6 @@ vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@gb1.murhost.network:443?flow=xtls-r
 
 
 vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@nl2.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl2.murhost.network&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&sid=bbab5af2663db00a#🇪🇺 Европа?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
-
-vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@ch1.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ch1.murhost.network&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6#🇨🇿 Чехия [Gemini 🤖] 
-
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@45.145.40.162:443?encryption=none&security=reality&fp=qq&pbk=ysoFZHGTbe5lg9yfdp8M7VxdAqPA65oKydUsbkyxQlg&sid=35c0eeec68c37745&sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&mode=multi#🇳🇱 Нидерланды?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@92.42.15.243:443?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&serviceName=grpc-tunnel&mode=multi#🇷🇺 Ютуб без рекламы?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
