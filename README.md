@@ -19,8 +19,9 @@ vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@nl3.freeinternat.com:443?flow=xtls-
 
 vless://bfd7b051-8535-49a9-bc2d-fe005f5fdde5@142.91.106.31:23535?encryption=none&type=tcp&security=none#🇯🇵 Основной 💊?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
+vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺Россия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jD9wKG_3q01SLJrWy62FysSN2MbrceqrXGP2q7L9TTs&sid=a0658f9f&spx=%2F&type=tcp#🇷🇺 Игровой?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺 Игровой?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 vless://115ba91f-fac5-403e-a827-2412e18acf6f@himoy.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=himoy.space&pbk=0D3YBiGbKp7f2jtEQsnLWy_l-yWYXdHiAQ81wM_P2zk&sid=108941c9c3756b69#🇨🇿 Чехия (ИИ)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
