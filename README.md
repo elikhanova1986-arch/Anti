@@ -145,3 +145,23 @@ vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@46.254.18.204:8443?encryption=none&
 
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@176.109.85.87:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=firefox&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp#🇪🇺 Антиглушилка 75?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
 
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@lvksp.kintuso.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🇪🇺 Антиглушилка 76?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@84.32.217.252:443?encryption=mlkem768x25519plus.native.0rtt.3xIuamAxhTxwvZan6FJPIYmf2LDY0QyzcuBdbVzs2Uw&flow=xtls-rprx-vision&fp=firefox&pbk=8gr0-llsCNFSg1F98ClK-ErXlVVriy9dI0vgnTLOIQg&security=reality&sni=claude.ai&type=tcp#🇪🇺 Антиглушилка 77?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@refraction.chelyabinskdev.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🇪🇺 Антиглушилка 78?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@static.kintuso.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🇪🇺 Антиглушилка 79?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@212.46.33.79:8443?encryption=mlkem768x25519plus.native.0rtt.uArCkKJ9T77lY47QIWzJA5W788IrYH5UIjuUXBIwWhE&flow=xtls-rprx-vision&security=tls&type=tcp#🇪🇺 Антиглушилка 80?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@84.32.96.205:443?encryption=none&fp=safari&pbk=MoAnTg4OwbprB8tOxSbZEjbqdUhue4WlA1vQfcA7Sz8&security=reality&sid=0b1a7f7592c5b87c&type=grpc#🇪🇺 Антиглушилка 81?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@84.32.151.136:443?encryption=none&fp=random&pbk=Abv_GBHT7hWs6pm7h9DC83-TvYXCa7gryqC296DRM1c&security=reality&sid=3480570f03d0a601&sni=www.recaptcha.net&type=grpc#🇪🇺 Антиглушилка 82?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@84.32.209.95:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=nxJxIChQb-6E-4TnqL2G7PUO-oYOQOBxLWN4NeYZJSE&security=reality&type=tcp#🇪🇺 Антиглушилка 83?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@194.55.239.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&security=reality&sni=a.res-nsdi.ru&type=tcp#🇪🇺 Антиглушилка 84?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
+vless://5990a9c3-773f-4976-bc2a-cb06a490d0ce@194.55.239.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2i44blncih-bAe23xs__1d4v--k167IpJhzvznqkTW0&security=reality&sni=b.res-nsdi.ru&type=tcp#🇪🇺 Антиглушилка 85?serverDescription=0JrQvtCz0LTQsCDRgdCy0Y%2FQt9GMINC30LDQs9C70YPRiNC10L3QsOKciO%2B4jw%3D%3D
+
