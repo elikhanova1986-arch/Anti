@@ -35,7 +35,7 @@ vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@est2.freeinternat.com:443?flow=xtls
 
 vless://ac107686-cec5-48c1-91d5-56c8274b5471@194.55.239.239:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=XlPZy538jkCt-VNtnLXcwjtrTSaVrM2AzIWq_rh7pRU&sid=51d04ca6fb10#🇦🇱 Албания?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@cz.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cz.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇵🇰
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@cz.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cz.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇵🇰 Для ВАТСАП
 
 vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺 Игровой 🎮?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
