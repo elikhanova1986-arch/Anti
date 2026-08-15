@@ -2,7 +2,8 @@
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍 🛩️ 𝐀𝐧𝐭𝐢𝐆𝐥𝐮𝐬𝐡𝐢𝐥𝐤𝐚
 #profile-update-interval: 1
 #subscription-update-interval: 1
-#announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!
+#announce:base64: 0J3QsNC20LzQuNGC0LUgwqvwn5SEwrssINC30LDRgtC10Lwgwrvij7HvuI/CuyDQuCDQstGL0LHQtdGA0LjRgtC1INGB0LXRgNCy0LXRgCDRgSDQvdCw0LjQvNC10L3RjNGI0LjQvCDQv9C40L3Qs9C+0LwgKNC80YEpINC00LvRjyDQvtC/0YLQuNC80LDQu9GM0L3QvtC5INGB0LrQvtGA0L7RgdGC0LguCgrQlNC70Y8g0YHRgtCw0LHQuNC70YzQvdC+0Lkg0YDQsNCx0L7RgtGLIFZQTiDQvtCx0L3QvtCy0LjRgtC1INC/0YDQuNC70L7QttC10L3QuNC1IEhhcHAg0LTQviDQsNC60YLRg9Cw0LvRjNC90L7QuSDQstC10YDRgdC40LguCgrCqyBTdWxpbSBWUE4gOiArNyg5NjMpOTg2LTQ0LTkxIMK7
+
 #support-url: https://wa.me/79639864491
 #profile-web-page-url: https://wa.me/79639864491
 #sort-order: ping
