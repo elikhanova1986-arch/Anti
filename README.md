@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=0001; download=0; total=0; expire=1817683200
+#subscription-userinfo: upload=0; download=0; total=0; expire=1817683200
 #profile-title: 𝐍𝐮𝐦𝐛𝐞𝐫 𝐎𝐧𝐞 𝐕𝐏𝐍✈️
 #profile-update-interval: 1
 #subscription-update-interval: 1
