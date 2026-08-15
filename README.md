@@ -43,12 +43,6 @@ vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=non
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@rf3.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rf3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20(YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
-vless://5a2268dd-c350-481d-95d2-d1c33b66ca08@5.188.114.70:443?flow=&type=grpc&mode=gun&serviceName=&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=x_Hr_laTciyEZLhE-Z8vf0dpE_n8d4NpXf148FqATEU&sid=b9375f0fa99f07b0#🇻🇳 Антиглушилка?serverDescription=0JDQvdGC0LjQs9C70YjQuNC70LrQsCB0ZXN0
-
-vless://5a2268dd-c350-481d-95d2-d1c33b66ca08@87.228.101.128:443?flow=&type=grpc&mode=gun&serviceName=&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=iN5cZSyJnwnhvsTT5Rc2wdLRQEi7d40rxNDEDN3sRkg&sid=3f3053322d5ac570#🇻🇳 Антиглушилка?serverDescription=0JDQvdGC0LjQs9C70YjQuNC70LrQsCB0ZXN0
-
-
-vless://5a2268dd-c350-481d-95d2-d1c33b66ca08@87.228.101.39:443?flow=&type=grpc&mode=gun&serviceName=&security=reality&fp=firefox&sni=ads.x5.ru&pbk=x_Hr_laTciyEZLhE-Z8vf0dpE_n8d4NpXf148FqATEU&sid=b9375f0fa99f07b0#🇻🇳 Антиглушилка?serverDescription=0JDQvdGC0LjQs9C70YjQuNC70LrQsCB0ZXN0
 
 
 
