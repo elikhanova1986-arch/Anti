@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=1817683200
-#profile-title: 𝐍𝐮𝐦𝐛𝐞𝐫 𝐎𝐧𝐞 𝐕𝐏𝐍✈️
+#profile-title:𝐍𝐮𝐦𝐛𝐞𝐫 𝐎𝐧𝐞 𝗩𝗣𝗡
 #profile-update-interval: 1
 #subscription-update-interval: 1
 #announce:base64: 0J3QsNC20LzQuNGC0LUgwqvwn5SEwrssINC30LDRgtC10Lwgwrvij7HvuI/CuyDQuCDQstGL0LHQtdGA0LjRgtC1INGB0LXRgNCy0LXRgCDRgSDQvdCw0LjQvNC10L3RjNGI0LjQvCDQv9C40L3Qs9C+0LwgKNC80YEpINC00LvRjyDQvtC/0YLQuNC80LDQu9GM0L3QvtC5INGB0LrQvtGA0L7RgdGC0LguCgrQlNC70Y8g0YHRgtCw0LHQuNC70YzQvdC+0Lkg0YDQsNCx0L7RgtGLIFZQTiDQvtCx0L3QvtCy0LjRgtC1INC/0YDQuNC70L7QttC10L3QuNC1IEhhcHAg0LTQviDQsNC60YLRg9Cw0LvRjNC90L7QuSDQstC10YDRgdC40LguCgrCqyBTdWxpbSBWUE4gOiArNyg5NjMpOTg2LTQ0LTkxIMK7
