@@ -59,7 +59,7 @@ vless://349836ed-a5e5-4137-9598-2a0038ba3aa3@84.252.101.134:443?flow=xtls-rprx-v
 
 vless://349836ed-a5e5-4137-9598-2a0038ba3aa3@116.206.95.242:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#🇨🇿 Чехия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@rf3.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rf3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇷🇺 Ютуб без рекламы ?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 
