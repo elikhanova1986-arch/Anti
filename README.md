@@ -27,7 +27,8 @@ vless://04b69491-7ae1-43eb-9546-b5d128e64683@ch.internet95.org:443?flow=xtls-rpr
 
 vless://04b69491-7ae1-43eb-9546-b5d128e64683@fr.internet95.org:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=fr.internet95.org&pbk=0PCBCmzkJ6kUkXeMlTazleYjkubPJpw4QB0qpHQvDT0#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
-vless://349836ed-a5e5-4137-9598-2a0038ba3aa3@116.206.95.243:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#🇸🇪 Швеция?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@80.66.79.145:28139?encryption=none&security=none&type=tcp&headerType=none&seed=051f94e28242ce9f#🇷🇺 Россия 
+
 vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@116.206.95.242:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#🇯🇵 Япония?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
 vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@84.252.101.134:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#🇩🇪 Германия?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
