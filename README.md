@@ -21,19 +21,20 @@ vmess://eyJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTEtNDYyLm1pcnJhLm5vdyIsICJpZCI6ICJlMWIw
 vmess://eyJhZGQiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJ0bHMiOiAidGxzIiwgInBvcnQiOiAiNDQzIiwgInBhdGgiOiAiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsICJzZXJ2ZXJEZXNjcmlwdGlvbiI6ICIrNzk2Mzk4NjQ0OTEiLCAiYWxwbiI6ICJoMiIsICJwcyI6ICLwn4eq8J+HutCQ0LLRgtC+IHwg0JPQu9GD0YjQuNC70LrQsCAjMiIsICJzY3kiOiAiYXV0byIsICJ2IjogIjIiLCAiaWQiOiAiNzdmZWQyMGItMmEyYy00OTc4LWE2MGEtMDFmZTA2ZmFlOGM0IiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJmcCI6ICJmaXJlZm94IiwgIm5ldCI6ICJ3cyJ9
 
 
+vless://f5197f13-930e-4ce4-925e-973d703dd4e6@82.22.2.246:8443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=rlgqfythU7nVc8Ui_IE41U22qH4sYO9qZ_tOLL38IkU&sni=www.sciencedirect.com&sid=a5b2c4d4a1b2c5d5&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%23
 
-vless://33d3c038-6849-4718-866a-1478519a9821@86.110.38.110:443?type=tcp&security=reality&pbk=Qzes_3vP7iiVpB1nCupbNitBdWIJxR079FAjc_fadC8&fp=firefox&sni=pypi.org&sid=57cc65bfd5ef7465&spx=%2F&flow=xtls-rprx-vision#🇪🇪 Стабильный ⚖️?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://33d3c038-6849-4718-866a-1478519a9821@82.41.131.80:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.philips.nl&pbk=Qzes_3vP7iiVpB1nCupbNitBdWIJxR079FAjc_fadC8&sid=57cc65bfd5ef7465#🇪🇪 Стабильный ⚖️?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
-vless://33d3c038-6849-4718-866a-1478519a9821@116.206.95.157:443?type=tcp&security=reality&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&fp=firefox&sni=dzen.ru&sid=7c83683ed7507a69&flow=xtls-rprx-vision#🇵🇱 Польша💊?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://33d3c038-6849-4718-866a-1478519a9821@82.41.131.83:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.philips.nl&pbk=Qzes_3vP7iiVpB1nCupbNitBdWIJxR079FAjc_fadC8&sid=57cc65bfd5ef7465#🇵🇱 Польша💊?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
 
-vless://55e30134-9fd8-48d8-91bf-8ce852de93b2@2.second-squad.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vtr.ru.egnewaes.com&pbk=XvB3s-A57t24AiErdrSv19qapc6TrNmykrOzFPJzYWQ&sid=2240bf396b28d310#🇳🇱 Амстердам?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://33d3c038-6849-4718-866a-1478519a9821@77.105.168.100:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#🇳🇱 Амстердам?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
 vless://55e30134-9fd8-48d8-91bf-8ce852de93b2@9.second-squad.com:443?type=grpc&mode=gun&serviceName=vgr&security=reality&fp=chrome&sni=vgr.ru.egnewaes.com&pbk=XvB3s-A57t24AiErdrSv19qapc6TrNmykrOzFPJzYWQ&sid=2240bf396b28d310#🇫🇮 Финляндия?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
-vless://115ba91f-fac5-403e-a827-2412e18acf6f@n10.himoy.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=n10.himoy.space&pbk=53WTeFKzGLYsqjqLC2uN_9PZywjQPoidt00i4UImXmY&sid=f19663bbc8d00454#🇦🇪 Дубай?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://33d3c038-6849-4718-866a-1478519a9821@82.41.131.78:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.philips.nl&pbk=Qzes_3vP7iiVpB1nCupbNitBdWIJxR079FAjc_fadC8&sid=57cc65bfd5ef7465#🇦🇪 Дубай?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
-vless://115ba91f-fac5-403e-a827-2412e18acf6f@n8.himoy.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=n8.himoy.space&pbk=VWTl2s11RlYJoTJ7NSPn2kzFx1wgzx-rydAIZMmegk0&sid=1fb3c93f2d3eca29#🇫🇷 Франция?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://33d3c038-6849-4718-866a-1478519a9821@ese.keldari.online:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ese.keldari.online&pbk=9ox0NK9AglLJSlQT7UhdXtESBz1Is1kCphLEPkr40z4&sid=47d554b22c87a4b6#🇫🇷 Франция?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
 vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@80.66.79.145:28139?encryption=none&security=none&type=tcp&headerType=none&seed=051f94e28242ce9f#🇷🇺 Россия 
 
