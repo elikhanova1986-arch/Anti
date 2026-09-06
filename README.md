@@ -38,6 +38,8 @@ vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@oneru1.gorecvpn.ru:443?type=xhttp&h
 
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@31.76.251.110:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.fastly.com&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098#🇧🇾 Беларусь 
 
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@yaruss.stopingiphatered.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yaruss.stopingiphatered.shop&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇷🇺(YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)
+
 vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@80.66.79.145:28139?encryption=none&security=none&type=tcp&headerType=none&seed=051f94e28242ce9f#🇷🇺 Россия?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
 
 vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@g14.gorecvpn.ru:443?type=xhttp&host=g14.gorecvpn.ru&path=/uploadfiles/&mode=packet-up&extra=%257B%250A%2520%2520%2522mode%2522%2520:%2520%2522packet-up%2522,%250A%2520%2520%2522path%2522%2520:%2520%2522%255C/uploadfiles%255C/%2522,%250A%2520%2520%2522uplinkHTTPMethod%2522%2520:%2520%2522GET%2522,%250A%2520%2520%2522xPaddingHeader%2522%2520:%2520%2522X-Cache%2522,%250A%2520%2520%2522xPaddingKey%2522%2520:%2520%2522_dc%2522,%250A%2520%2520%2522xPaddingMethod%2522%2520:%2520%2522tokenish%2522,%250A%2520%2520%2522xPaddingObfsMode%2522%2520:%2520true,%250A%2520%2520%2522xPaddingPlacement%2522%2520:%2520%2522queryInHeader%2522%250A%257D&security=tls&sni=g14.gorecvpn.ru&fp=chrome#🇷🇺 Антиглушилка (тест|1)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
