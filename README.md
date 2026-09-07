@@ -46,19 +46,6 @@ vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@g14.gorecvpn.ru:443?type=xhttp&host
 vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@oneru1.gorecvpn.ru:443?type=xhttp&host=oneru1.gorecvpn.ru&path=/uploadfiles/&mode=packet-up&extra=%257B%250A%2520%2520%2522mode%2522%2520:%2520%2522packet-up%2522,%250A%2520%2520%2522path%2522%2520:%2520%2522%255C/uploadfiles%255C/%2522,%250A%2520%2520%2522uplinkHTTPMethod%2522%2520:%2520%2522GET%2522,%250A%2520%2520%2522xPaddingHeader%2522%2520:%2520%2522X-Cache%2522,%250A%2520%2520%2522xPaddingKey%2522%2520:%2520%2522_dc%2522,%250A%2520%2520%2522xPaddingMethod%2522%2520:%2520%2522tokenish%2522,%250A%2520%2520%2522xPaddingObfsMode%2522%2520:%2520true,%250A%2520%2520%2522xPaddingPlacement%2522%2520:%2520%2522queryInHeader%2522%250A%257D&security=tls&sni=oneru1.gorecvpn.ru&fp=chrome#🇷🇺 Антиглушилка (тест|2)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
 
 
-vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@176.109.69.127:8447?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇷🇺 Антиглушилка (тест|3)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
-
-
-vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@seedcdn.ladashoptumen.lol:443?encryption=none&type=xhttp&security=tls&sni=seedcdn.ladashoptumen.lol&path=/api/v2/sync/pics/&host=seedcdn.ladashoptumen.lol&mode=packet-up&extra={"path":"/api/v2/sync/pics/","xPaddingKey":"_dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPadding0bfsMode":true,"xPaddingPlacement":"queryInHeader"}#🇷🇺 Антиглушилка (тест|4)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
-
-
-vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@gethelios.gatebooking.study:443?encryption=none&type=xhttp&security=tls&sni=gethelios.gatebooking.study&path=/api/v1/assets/&host=gethelios.gatebooking.study&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"0","maxConnections":"1","hKeepAlivePeriod":0,"hMaxRequestTimes":"300-600","hMaxReusableSecs":"900-1800"},"noSSEHeader":true,"xPaddingKey":"_token","xPaddingBytes":"16-64","xPaddingHeader":"X-Signature","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"query","scMaxEachPostBytes":"500000-1000000","uplinkDataPlacement":"body","scMinPostsIntervalMs":"50-150","scStreamUpServerSecs":"60-180"}#🇷🇺 Антиглушилка (тест|5)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
-
-
-vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@fly.worldfly.io:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fly.worldfly.io&pbk=jgeqon_RNQEN1aBGW3Am7VwobPy3ehxN567bWvp02k4&sid=6ba85179e30d4fc2&fp=firefox#🇷🇺 Антиглушилка (тест|6)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
-
-
-
 vmess://eyJ2IjogIjIiLCAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMS00NjMubWlycmEubm93IiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDVlYjgyYjEtZDdmMC00ZTBlLTgzY2QtOWIzYTQ0N2E1NTcyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCAic2VydmVyRGVzY3JpcHRpb24iOiAiKzcoOTYzKTk4Ni00NC05MSIsICJhbHBuIjogImgyIiwgInBvcnQiOiAiNDQzIiwgImFkZCI6ICJyZW5kZXJlci1zdHJlYW0tMS00NjMubWlycmEubm93IiwgImZwIjogImZpcmVmb3giLCAic25pIjogInJlbmRlcmVyLXN0cmVhbS0xLTQ2My5taXJyYS5ub3ciLCAicHMiOiAi0JDQvdGC0LjQs9C70YPRiNC40LvQutCwIDEg8J+Hs/Cfh7EiLCAic2N5IjogImF1dG8ifQ==
 
 vmess://eyJhZGQiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJpZCI6ICI3N2ZlZDIwYi0yYTJjLTQ5NzgtYTYwYS0wMWZlMDZmYWU4YzQiLCAidiI6ICIyIiwgIm5ldCI6ICJ3cyIsICJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJzZXJ2ZXJEZXNjcmlwdGlvbiI6ICIrNyg5NjMpOTg2LTQ0LTkxIiwgInRscyI6ICJ0bHMiLCAicHMiOiAi0JDQvdGC0LjQs9C70YPRiNC40LvQutCwIDIg8J+Hs/Cfh7EiLCAicGF0aCI6ICIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwgInBvcnQiOiAiNDQzIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMS0zNzkubWlycmEubm93IiwgImFscG4iOiAiaDIiLCAic2N5IjogImF1dG8ifQ==
