@@ -21,14 +21,16 @@ vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS0zNzkubWlycmEubm93IiwiYWxwbiI6ImgyIiwi
 
 vmess://eyJhZGQiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJ0bHMiOiAidGxzIiwgInBvcnQiOiAiNDQzIiwgInBhdGgiOiAiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsICJzZXJ2ZXJEZXNjcmlwdGlvbiI6ICIrNzk2Mzk4NjQ0OTEiLCAiYWxwbiI6ICJoMiIsICJwcyI6ICLwn4eq8J+HutCQ0LLRgtC+IHwg0JPQu9GD0YjQuNC70LrQsCAjMiIsICJzY3kiOiAiYXV0byIsICJ2IjogIjIiLCAiaWQiOiAiNzdmZWQyMGItMmEyYy00OTc4LWE2MGEtMDFmZTA2ZmFlOGM0IiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTEtMzc5Lm1pcnJhLm5vdyIsICJmcCI6ICJmaXJlZm94IiwgIm5ldCI6ICJ3cyJ9
 
+vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@179.255.186.169:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gstatic.com&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0#🇳🇱 Основной 📱
+
 vless://05eb82b1-d7f0-4e0e-83cd-9b3a447a5572@renderer-bridge-1-463.mirra.now:443?type=grpc&mode=gun&serviceName=VideoRendererBridge&security=tls&sni=renderer-bridge-1-463.mirra.now&alpn=h2&fp=firefox#🇳🇱 Подключение для WI-FI🛜
 
-vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@185.136.12.110:8443?security=reality&encryption=none&fp=firefox&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sni=max.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇳🇱 Нидерланды | 1
+vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@162.217.248.185:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gstatic.com&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0#🇳🇱 Нидерланды | 1
 
 
 hysteria2://4f14c414-f98b-458e-a2e2-4d7bdd7c2ad6@poka1.api3-max.ru:443?insecure=0&sni=poka1.api3-max.ru&alpn=h3#🇳🇱 Нидерланды |2
 
-vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@185.136.12.110:8443?security=reality&encryption=none&fp=firefox&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sni=max.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇪🇪 Эстония ?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
+vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@64.49.13.137:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gstatic.com&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0#🇪🇪 Эстония
 
 vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@64.49.15.220:8443?security=reality&encryption=none&fp=firefox&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sni=gstatic.com&flow=xtls-rprx-vision&type=tcp&headerType=none#🇵🇱 Польша?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%3D
 
