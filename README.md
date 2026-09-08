@@ -40,7 +40,7 @@ vless://44915238-6f99-4ab2-a71a-6d901d76eeff@no.noesissite.ru:8443?encryption=no
 vless://04b69491-7ae1-43eb-9546-b5d128e64683@ch.internet95.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ch.internet95.org&fp=firefox&pbk=Dvw5WPueuozU9iBQYWFxToD9r9vSCaOhhUUWxZaUmyk&type=tcp&headerType=none#🇦🇪 Дубай
 vless://04b69491-7ae1-43eb-9546-b5d128e64683@fr.internet95.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr.internet95.org&fp=firefox&pbk=0PCBCmzkJ6kUkXeMlTazleYjkubPJpw4QB0qpHQvDT0&type=tcp&headerType=none#🇫🇷Франция 
 
-
+vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@80.66.79.145:28139?type=tcp&security=none#🇷🇺 Россия
 
 vless://a9220350-092c-4d4d-bf9e-09fe34e9298a@g14.gorecvpn.ru:443?type=xhttp&host=g14.gorecvpn.ru&path=/uploadfiles/&mode=packet-up&extra=%257B%250A%2520%2520%2522mode%2522%2520:%2520%2522packet-up%2522,%250A%2520%2520%2522path%2522%2520:%2520%2522%255C/uploadfiles%255C/%2522,%250A%2520%2520%2522uplinkHTTPMethod%2522%2520:%2520%2522GET%2522,%250A%2520%2520%2522xPaddingHeader%2522%2520:%2520%2522X-Cache%2522,%250A%2520%2520%2522xPaddingKey%2522%2520:%2520%2522_dc%2522,%250A%2520%2520%2522xPaddingMethod%2522%2520:%2520%2522tokenish%2522,%250A%2520%2520%2522xPaddingObfsMode%2522%2520:%2520true,%250A%2520%2520%2522xPaddingPlacement%2522%2520:%2520%2522queryInHeader%2522%250A%257D&security=tls&sni=g14.gorecvpn.ru&fp=chrome#🇷🇺 Антиглушилка (тест|1)?serverDescription=KzcoOTYzKTk4Ni00NC05MQ%3D%
 
