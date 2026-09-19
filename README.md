@@ -22,17 +22,19 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@217.60.34.197:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nethys.vetryx.shop&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098#%F0%9F%87%B3%F0%9F%87%B1%D0%90%D0%B2%D1%82%D0%BE%20%20%7C%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%F0%9F%8C%8D
 
 
-vless://77fed20b-2a2c-4978-a60a-01fe06fae8c4@renderer-bridge-1-467.mirra.now:443?encryption=none&security=tls&sni=renderer-bridge-1-467.mirra.now&alpn=h2&fp=firefox&type=grpc&mode=gun&authority=&serviceName=VideoRendererBridge#%F0%9F%87%A6%F0%9F%87%B7%20%D0%94%D0%BB%D1%8F%20Wi-fi%20%E2%9C%A8
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@svvedko.nxxzxaw.beer:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=svvedko.nxxzxaw.beer&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836#%F0%9F%87%AC%F0%9F%87%A7%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%F0%9F%9A%80
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@finkafsb.finiki.lol:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=finkafsb.finiki.lol&pbk=YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA&sid=d110331f200987ae&spx=/#%F0%9F%87%AA%F0%9F%87%AA%20%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%F0%9F%94%9D
+vless://f1b9ddc4-47c9-4fa5-ad7e-273785ac85c1@de1.jugploer.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de1.jugploer.icu&fp=qq&pbk=RAO0oF4uh8HlNfJ_4exSLb-rmXzajkoYBX7ODesoRzs&type=tcp#🇩🇪%20Германия%20⚡ тест
+
+vless://f1b9ddc4-47c9-4fa5-ad7e-273785ac85c1@yr.jugploer.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yr.jugploer.icu&fp=qq&pbk=L9BImf_rxbySGmoKWFCqXjZKLBLP0HMIJ0-nI5kc1hk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%F0%9F%9A%80
+
+vless://f1b9ddc4-47c9-4fa5-ad7e-273785ac85c1@nl1.jugploer.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl1.jugploer.icu&fp=edge&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%F0%9F%94%9D
 
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@217.60.182.145:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.fastly.com&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9%20%F0%9F%94%97
 
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@64.49.12.244:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.fastly.com&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9%20%F0%9F%9A%A7 
 
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@gerwai.loozerp.wiki:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gerwai.loozerp.wiki&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&sid=0c13e8822e7f58aa&spx=/#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://f1b9ddc4-47c9-4fa5-ad7e-273785ac85c1@yr.jugploer.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yr.jugploer.icu&fp=qq&pbk=L9BImf_rxbySGmoKWFCqXjZKLBLP0HMIJ0-nI5kc1hk&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@45.87.104.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cabinet.gatebooking.study&fp=firefox&pbk=2WJ_OL9OkG7Jk9EhxS3KxzFdWN1ZmDNMZvE5TUnU7WI&sid=b470934eb6924098&type=tcp#🇹🇷 Турция 
 
