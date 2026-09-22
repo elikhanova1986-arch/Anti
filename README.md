@@ -28,6 +28,15 @@ vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@45.87.104.174:443?flow=xtls-rprx-vi
 
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@asdghyst.vetryx.shop:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=asdghyst.vetryx.shop&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&fp=safari#🇫🇮 Запасной 🔗
 
+vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@env-fi-ltap.kintuso.com:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=claude.ai&pbk=8gr0-llsCNFSg1F98ClK-ErXlVVriy9dI0vgnTLOIQg#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Gemini
+
+
+vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@84.32.217.252:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=claude.ai&pbk=LpAFKYQWiwUHtibQpr3TNsjAfyfFNhYRH5rO492vS3w#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+
+vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@216.227.189.252:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90
+
+vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@env-fi-ltap.kintuso.com:8443?type=grpc&mode=gun&serviceName=&security=reality&fp=safari&sni=_&pbk=GXYmyKHFGQ3kX2MBnqXXGFo7y9BurwVbt5NXS5JA-A0#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20-%20%D0%A3%D1%83%D1%81%D0%B8%D0%BC%D0%B0%D0%B0
+
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@ru2.rushoppingforwomen.com:443?encryption=none&type=xhttp&security=reality&sni=ru2.rushoppingforwomen.com&pbk=BsWBkidnoP_z6gc9oR089v76ArczHscPBmAvLM6NaSA&sid=1df6a7f444c5006b&fp=firefox&path=/xhttppath/&host=ru2.rushoppingforwomen.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":true,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scStreamUpServerSecs":"20-80"}#🇷🇺 Россия
 
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@cl.rushoppingforwomen.com:443?encryption=none&type=xhttp&security=reality&sni=cl.rushoppingforwomen.com&pbk=mRknzhswVt12Jq3r8gBlNvjtdJ6um_P4pBcQbU5LKl8&sid=f94c180afd0a9b38&fp=firefox&path=/xhttppath/&host=cl.rushoppingforwomen.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":true,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scStreamUpServerSecs":"300-600"}#🇨🇱 Чили
