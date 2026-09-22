@@ -22,52 +22,19 @@ vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@45.87.104.174:8443?encryption=none&
 
 vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@217.60.182.145:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.fastly.com&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&fp=firefox#🇪🇺 Запасной 🔗 
 
-vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@45.87.104.174:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cabinet.gatebooking.study&pbk=2WJ_OL9OkG7Jk9EhxS3KxzFdWN1ZmDNMZvE5TUnU7WI&sid=b470934eb6924098#🇬🇧 Запасной 🔗
 
-
-
-vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@asdghyst.vetryx.shop:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=asdghyst.vetryx.shop&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&fp=safari#🇫🇮 Запасной 🔗
-
-vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@env-fi-ltap.kintuso.com:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=claude.ai&pbk=8gr0-llsCNFSg1F98ClK-ErXlVVriy9dI0vgnTLOIQg#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Gemini
-
-
-vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@84.32.217.252:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=claude.ai&pbk=LpAFKYQWiwUHtibQpr3TNsjAfyfFNhYRH5rO492vS3w#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-
-vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@216.227.189.252:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90
-
-vless://6afa48bb-40e1-414d-acf2-52cfc7e2eee5@env-fi-ltap.kintuso.com:8443?type=grpc&mode=gun&serviceName=&security=reality&fp=safari&sni=_&pbk=GXYmyKHFGQ3kX2MBnqXXGFo7y9BurwVbt5NXS5JA-A0#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20-%20%D0%A3%D1%83%D1%81%D0%B8%D0%BC%D0%B0%D0%B0
 
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@ru2.rushoppingforwomen.com:443?encryption=none&type=xhttp&security=reality&sni=ru2.rushoppingforwomen.com&pbk=BsWBkidnoP_z6gc9oR089v76ArczHscPBmAvLM6NaSA&sid=1df6a7f444c5006b&fp=firefox&path=/xhttppath/&host=ru2.rushoppingforwomen.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":true,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scStreamUpServerSecs":"20-80"}#🇷🇺 Россия
 
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@cl.rushoppingforwomen.com:443?encryption=none&type=xhttp&security=reality&sni=cl.rushoppingforwomen.com&pbk=mRknzhswVt12Jq3r8gBlNvjtdJ6um_P4pBcQbU5LKl8&sid=f94c180afd0a9b38&fp=firefox&path=/xhttppath/&host=cl.rushoppingforwomen.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":true,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scStreamUpServerSecs":"300-600"}#🇨🇱 Чили
 
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@online.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=online.rushoppingforwomen.com&pbk=UOXlVJSkSdCvOsCfPd1V1daJV8QCc5siDg6rIO9oPWk&sid=e2ac459ac7e00c18&fp=firefox#🇮🇪 Ирландия
 
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@ee.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.rushoppingforwomen.com&pbk=5wuivZ7-MvjNeuEJo8b58DbtIlbC-wngTqTaWH930RI&sid=47eb26f3b264e1bc&fp=qq#🇪🇪 Эстония
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@fl.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fl.rushoppingforwomen.com&pbk=kSelqiijospUZVwgMaK2wAH6EIVVGBi4YEMI1RvqzGM&sid=2991e8dc9761fb23&fp=firefox#🇫🇮 Финляндия
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@ger.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ger.rushoppingforwomen.com&pbk=SVWpzq7OFcAkDVkKHKDn_gER_zzArarGBfCch7Ee000&sid=db104d2c9b17365a&fp=firefox#🇩🇪 Германия
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@nl.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.rushoppingforwomen.com&pbk=qHiCzxhxq_Vcd0xq6jzyAe4wwJxUxqTk0_5VbnaeYSU&sid=e1e7fef1ddfc3f42&fp=firefox#🇳🇱 Нидерланды
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@dee.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dee.rushoppingforwomen.com&pbk=SZYYcgrHYYmTdR1fEKTIr8I_edeTgzW-zXq0yQoKSxk&sid=fcddb4b06c024e0d&fp=firefox#🇩🇰 Дания
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@work.rushoppingforwomen.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=work.rushoppingforwomen.com&pbk=eBTbA6ltrqjSqF0whHBvxtIgcZtlOWeehELQPgrxQUo&sid=cdce2e0afc2bcd35&fp=firefox#🇦🇹 Австрия
 
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@188.72.110.4:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/api/upload/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/api/upload/","xmux":{"cMaxLifetimeMs":0,"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"page","sessionKey":"X-Auth-Token","xPaddingKey":"_dc","seqPlacement":"query","sessionIDKey":"X-Auth-Token","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","sessionIDPlacement":"header"}#🇬🇧 Англия
 
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@188.72.110.4:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/media/v3/segments/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/media/v3/segments/","xmux":{"cMaxLifetimeMs":300000,"cMaxReuseTimes":100,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"chunk_id","sessionKey":"X-Upload-Token","xPaddingKey":"hash","seqPlacement":"query","sessionIDKey":"X-Upload-Token","xPaddingBytes":"100-1000","xPaddingHeader":"X-Client-Version","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","scMaxEachPostBytes":"1000000","sessionIDPlacement":"header"}#🇨🇿 Чехия
 
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@ycdn4.fashionshopping.blog:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/media/v3/segments/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/media/v3/segments/","xmux":{"cMaxLifetimeMs":300000,"cMaxReuseTimes":100,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"chunk_id","sessionKey":"X-Upload-Token","xPaddingKey":"hash","seqPlacement":"query","sessionIDKey":"X-Upload-Token","xPaddingBytes":"100-1000","xPaddingHeader":"X-Client-Version","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","scMaxEachPostBytes":"1000000","sessionIDPlacement":"header"}#🇸🇰 Словакия
 
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@rus.fashionshopping.blog:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=D1LXKfVv-85xB9hMif2ldn2p1Kr_7-osB0cJaHHVaQw&sid=7df25e8854f178ca&fp=firefox#🇵🇱 Польша
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@rus.fashionshopping.blog:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=PQMaLRmeUkTOB0UekZN4mf8FSYlw8WVZJ4WfGqnyFk8&sid=598aca5ac5a61c74🇷&fp=firefox#🇭🇺 Венгрия🇺
-
-vless://511bfda6-4c84-4a51-967 Россияb-41855257f0b5@188.72.103.4:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/api/upload/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/api/upload/","xmux":{"cMaxLifetimeMs":0,"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"page","sessionKey":"X-Auth-Token","xPaddingKey":"_dc","seqPlacement":"query","sessionIDKey":"X-Auth-Token","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","sessionIDPlacement":"header"}#🇷🇴 Румыния
-
-vless://511bfda6-4c84-4a51-967b-41855257f0b5@188.72.103.4:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/media/v3/segments/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/media/v3/segments/","xmux":{"cMaxLifetimeMs":300000,"cMaxReuseTimes":100,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"chunk_id","sessionKey":"X-Upload-Token","xPaddingKey":"hash","seqPlacement":"query","sessionIDKey":"X-Upload-Token","xPaddingBytes":"100-1000","xPaddingHeader":"X-Client-Version","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","scMaxEachPostBytes":"1000000","sessionIDPlacement":"header"}#🇧🇬 Болгария
 vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nalog.ru&fp=qq&pbk=P9Kr5EPAnfI8ri3ODMJstgzB4zefcjDuJcFDLpSYoHs&sid=ce823702a3e10b15#🇷🇺 Россия НАВИГАТОВ·🛣️ тест 
 
 
