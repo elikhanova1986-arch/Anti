@@ -68,7 +68,12 @@ vless://511bfda6-4c84-4a51-967b-41855257f0b5@rus.fashionshopping.blog:8443?encry
 vless://511bfda6-4c84-4a51-967 Россияb-41855257f0b5@188.72.103.4:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/api/upload/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/api/upload/","xmux":{"cMaxLifetimeMs":0,"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"page","sessionKey":"X-Auth-Token","xPaddingKey":"_dc","seqPlacement":"query","sessionIDKey":"X-Auth-Token","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","sessionIDPlacement":"header"}#🇷🇴 Румыния
 
 vless://511bfda6-4c84-4a51-967b-41855257f0b5@188.72.103.4:443?encryption=none&type=xhttp&security=tls&sni=ycdn4.fashionshopping.blog&path=/media/v3/segments/&host=ycdn4.fashionshopping.blog&mode=packet-up&extra={"path":"/media/v3/segments/","xmux":{"cMaxLifetimeMs":300000,"cMaxReuseTimes":100,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"chunk_id","sessionKey":"X-Upload-Token","xPaddingKey":"hash","seqPlacement":"query","sessionIDKey":"X-Upload-Token","xPaddingBytes":"100-1000","xPaddingHeader":"X-Client-Version","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","scMaxEachPostBytes":"1000000","sessionIDPlacement":"header"}#🇧🇬 Болгария
+vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nalog.ru&fp=qq&pbk=P9Kr5EPAnfI8ri3ODMJstgzB4zefcjDuJcFDLpSYoHs&sid=ce823702a3e10b15#🇷🇺 Россия НАВИГАТОВ·🛣️ тест 
 
+
+vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62446?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=mos.ru&fp=qq&pbk=m__ZTt0lD5sK0WiUUp6zVxAHK57e72eW4A7JSEC9hCs&sid=34e4beaf908b6603#🇷🇺 Россия НАВИГАТОР 2 тест 
+
+vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62448?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=wildberries.ru&fp=qq&pbk=-HoI5-ZTkj0_jNpYGXMOlCriLHVEDAUEMFJWALyHZl8&sid=577abdf959b04b89#🇷🇺 Россия НАВИГАТОР 3 тест 
 
 
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@est1.loozerp.wiki:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=est1.loozerp.wiki&fp=firefox&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e#🇪🇪 Эстония  (БЫСТРЫЙ)⚡️
