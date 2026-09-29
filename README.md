@@ -17,7 +17,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@cz.haar.lol:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=cz.haar.lol&pbk=nbRHRqjueHmMfY5PR7PEja8kSKyxnild9885ZedM4yI&sid=91105459b32e5a73#🇦🇪 Основной 🔥
+vless://e26a8079-7e41-4e05-98fe-6c06d91cb1ac@193.223.107.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.fastly.com&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&type=tcp#🇦🇪 Основной 🔥
 
 
 vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62445?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=nalog.ru&pbk=P9Kr5EPAnfI8ri3ODMJstgzB4zefcjDuJcFDLpSYoHs&sid=ce823702a3e10b15#🇫🇷 Запасной 🔗
