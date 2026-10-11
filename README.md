@@ -80,6 +80,23 @@ vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@87.228.101.220:443?encryption=none&
 
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@31.129.42.15:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=piter31.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=random#🇷🇺 Россия (Антиблок Питер 31)
 
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@yw0ein72.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yw0ein72.denditop.site&pbk=UpOOm5-gcSp3fLuCzWl2HJnnqtUHpnbyOWU2yUCcsRI&sid=0492eabdb9&fp=firefox#🇳🇱 Нидерланды (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@ga2gqv6u8.dendiboss.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ga2gqv6u8.dendiboss.org&pbk=tEjpJHMrZU8Lx9935ubHem8HoKTx636RBiG3Cnwx8mM&sid=11a4389e0f&fp=firefox#🇩🇪 Германия (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@dte3ma8o.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dte3ma8o.denditop.site&pbk=tjRl0kf5jtYdBrQc3vMUPGx-ro_I2EwyoeiixvWiLXM&sid=3f6347b7&fp=firefox#🇫🇷 Франция (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@discard.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=discard.denditop.site&pbk=u75rw8LKDTUdcmVPFVVTKV0TxvH39Fl0WJ8crbjegxk&sid=bc609efa3b2d052f&fp=firefox#🇬🇧 Великобритания (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@l72brnp.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=l72brnp.denditop.site&pbk=VJw5gKAj1oRwz7T1o1_nRzpxWnTH-7mjV3mMvgsrt1M&sid=89d5fe&fp=firefox#🇸🇪 Швеция (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@lt.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lt.denditop.site&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&fp=firefox#🇱🇹 Литва (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@perch.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=perch.denditop.site&pbk=aifpr5vxx0eaPohSBVZrC5yUFtaK6Sqa8mGwjOxZ1Sc&sid=f05d81d32f5e4b94&fp=firefox#🇵🇱 Польша (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@179.43.152.212:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=6f6s73bt7.dendiboss.org&pbk=DvuHNIj448CnPljdm52Aa2JWVuVZh1T8zXEvJ6zXz04&sid=9c2378562188c3cb&fp=firefox#🇨🇭 Швейцария (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@144.31.169.84:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin.dendiboss.org&pbk=UQ93JiImFzpfa8UcVL8GNRvR_i1xIeNSruOLqiQpYD0&sid=9c2378562188c3cb&fp=firefox#🇫🇮 Финляндия (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@urk35.dendi.best:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=urk35.dendi.best&pbk=dN1aRcsFNHiFHw9E6YVSOF1SR2H-ahW4gEuXdLvZeFw&sid=e01f&fp=firefox#🇺🇦 Украина (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@plfsdd.dendiboss.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=plfsdd.dendiboss.org&pbk=NtaFdDQFRPxPPIcRc-qyYDbL9mI_miwnaHcdLWvpgmo&sid=9c2378562188c3cb&fp=firefox#🇷🇴 Румыния (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@62.60.232.238:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hk.dendiboss.org&pbk=lK305DpoHGgXocbC3HwUcAGnVtmJjsFACgJMbAJrUVw&sid=fd6a3a70c2350e51&fp=firefox#🇭🇰 Гонконг (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@z0xrkq8j8.denditop.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=z0xrkq8j8.denditop.site&pbk=TN4bFluguRyFlvgn_1g5_Wl4mXkofMRrQ0L2mR5lshE&sid=c9778a3ccb&fp=firefox#🇯🇵 Япония (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@md.dendiboss.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=md.dendiboss.org&pbk=PQm4_ELMk_t2_-78lisq7Pt3aal3IVaC519prE_-Fh8&sid=9c2378562188c3cb&fp=firefox#🇲🇩 Молдова (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@94.247.133.188:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=c3h82xhny.denditop.site&pbk=TV1_HquAAEYsQoT8IAKif3DOCpxb0omm7hXzVG0_H20&sid=c36a92e068&fp=firefox#🇺🇸 США (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@34savo9nn.dendiplay.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=34savo9nn.dendiplay.com&pbk=GfxtZ_bANDaVfIdoHq-6O0ObGK8KueW24Fh21rzCfVU&sid=44c833&fp=firefox#🇷🇺 Россия (тест)
+vless://31608385-8f7d-4f9f-8df4-e49d9953c23a@138.124.36.78:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=j638lm50.denditop.site&pbk=0kemMVJtXt0c2HhvxjqEWLLJQvvJALYyzjB-ftii0UA&sid=3944&fp=firefox#🇩🇪 Германия 2 (тест)
 
 
  # Обычный впн
