@@ -20,13 +20,7 @@ vless://b82353a8-8d04-44dc-ac74-d58e306beffd@mosru.internet95.org:443?flow=xtls-
 vless://b82353a8-8d04-44dc-ac74-d58e306beffd@mosru.internet95.org:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mosru.internet95.org&fp=qq&pbk=4W7JwRQP1yVJ_t3XotIdEw3yhCBzP0zJCkbU_Y7C0Xw&sid=ca686644d31de9b0&type=tcp&headerType=none#🇦🇪 Дубай ⭐️
 
 
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@angldril.pumpkinpie.study:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=angldril.pumpkinpie.study&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=/#🇬🇧 Англия
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@etsomia.karp1pdd.life:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=etsomia.karp1pdd.life&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e#🇪🇪 Эстония
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@mefspice.stereotip.life:2053?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=mefspice.stereotip.life&pbk=5bEL420yqlAH1aSp_O5JCGMpts-QH9ZVXBcnN1TXnzc&sid=1533df6308386b5a#🇵🇱 Польша
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@cze1.somiki.best:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cze1.somiki.best&pbk=sg6UZorSKWbfwmfxh0SyfZ-SszlhitX43LHtRGTZU2Y&sid=a4c4e97b89446dcd#🇨🇿 Чехия
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@lit.lizard.surf:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=lit.lizard.surf&pbk=QPGdBjmycK5eA6rV4-sKsNUn8VyK-NCWHw3jO5SJ6C4&sid=2b1e40fbb1362f77&spx=/#🇱🇹 Литва
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=swebz.loozerp.wiki&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=/#🇸🇪 Швеция
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@hapatronik.vodniki.monster:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=hapatronik.vodniki.monster&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=/#🇲🇩 Молдова
+
 
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@145.249.115.240:443?type=grpc&mode=gun&serviceName=media-stream-v1&security=reality&fp=firefox&sni=nl-cloud3.groznyshop.com&pbk=aIB8O0rQggo-7VfQUU_WWBHQ6muuM1KnBsS3PMtJRDg&sid=a1b2c3d4e5f6a7b8#🇳🇱 Нидерланды
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@cdn-est-nedh.groznyshop.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cdn-est-nedh.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896#🇪🇪 Эстония
