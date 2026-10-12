@@ -20,65 +20,17 @@ vless://b82353a8-8d04-44dc-ac74-d58e306beffd@mosru.internet95.org:443?flow=xtls-
 vless://b82353a8-8d04-44dc-ac74-d58e306beffd@mosru.internet95.org:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mosru.internet95.org&fp=qq&pbk=4W7JwRQP1yVJ_t3XotIdEw3yhCBzP0zJCkbU_Y7C0Xw&sid=ca686644d31de9b0&type=tcp&headerType=none#🇦🇪 Дубай ⭐️
 
 
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@145.249.115.240:443?encryption=none&type=grpc&security=reality&sni=nl-cloud3.groznyshop.com&pbk=aIB8O0rQggo-7VfQUU_WWBHQ6muuM1KnBsS3PMtJRDg&sid=a1b2c3d4e5f6a7b8&fp=firefox&serviceName=media-stream-v1#🇳🇱 Нидерланды |1
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@angldril.pumpkinpie.study:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=angldril.pumpkinpie.study&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=/#🇬🇧 Англия
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@etsomia.karp1pdd.life:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=etsomia.karp1pdd.life&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e#🇪🇪 Эстония
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@mefspice.stereotip.life:2053?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=mefspice.stereotip.life&pbk=5bEL420yqlAH1aSp_O5JCGMpts-QH9ZVXBcnN1TXnzc&sid=1533df6308386b5a#🇵🇱 Польша
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@cze1.somiki.best:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cze1.somiki.best&pbk=sg6UZorSKWbfwmfxh0SyfZ-SszlhitX43LHtRGTZU2Y&sid=a4c4e97b89446dcd#🇨🇿 Чехия
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@lit.lizard.surf:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=lit.lizard.surf&pbk=QPGdBjmycK5eA6rV4-sKsNUn8VyK-NCWHw3jO5SJ6C4&sid=2b1e40fbb1362f77&spx=/#🇱🇹 Литва
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=swebz.loozerp.wiki&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=/#🇸🇪 Швеция
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@hapatronik.vodniki.monster:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=hapatronik.vodniki.monster&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=/#🇲🇩 Молдова
 
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@netherlands-cdn.softmaster95.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=netherlands-cdn.softmaster95.ru&pbk=PRkHS4ztb6_S72z-P17YrQKuufiQ8pNO3TDv-AJjWRo&sid=8248954896&fp=firefox#🇳🇱 Нидерланды |2
 
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@77.239.122.176:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-cloud2.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇳🇱 Нидерланды |3
 
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@cdn-est-nedh.groznyshop.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-est-nedh.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇳🇱 Нидерланды |4
 
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@144.31.164.25:443?encryption=none&type=xhttp&security=reality&sni=ge-cloud2.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=a1b2c3d4e5f6a7b8&fp=firefox&path=/media/segment&host=127.0.0.1&mode=stream-up#🇩🇪 Германия |1
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@177.3.216.144:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=germany2.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇩🇪 Германия |2
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@208.116.19.106:443?encryption=none&type=xhttp&security=reality&sni=ge-cloud7.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=a1b2c3d4e5f6a7b8&fp=firefox&path=/media/segment&host=127.0.0.1&mode=stream-up#🇩🇪 Германия |3
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@146.103.123.52:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-sina.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇪🇪 Эстония
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@104.167.198.84:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=usa-mi-cdn.groznyshop.com&pbk=S5WGqbUx_c_1ET3bYSWBDpdeZxRF2ui7l1K34KP0Ej0&sid=8248954896&fp=firefox#🇺🇸 США |1
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@65.181.122.129:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-usa.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇺🇸 США |2
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@31.76.88.77:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=helsinki-cloud2.groznyshop.com&pbk=3d7nyRRa_nvvGGERGcUhHxYmVNf1lFYzOIB9VM7oEzU&sid=8248954896&fp=firefox#🇫🇮 Хельсинки |1
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@45.149.147.158:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-hels-ads.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇫🇮 Хельсинки |2
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@187.124.214.63:4443?encryption=none&type=xhttp&security=reality&sni=uk-cloud1.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=a1b2c3d4e5f6a7b8&fp=firefox&path=/static/getFile/video/segment.ts&mode=auto&extra={"xmux":{"cMaxLifetimeMs":600000,"cMaxReuseTimes":"64-128","maxConcurrency":2,"hKeepAlivePeriod":0,"hMaxRequestTimes":0},"noSSEHeader":false,"xPaddingBytes":"200-1200"}#🇬🇧 Манчестер |1
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@138.124.63.2:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=latvia.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇱🇻 Латвия
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@92.242.187.217:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lithuania.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇱🇹 Литва
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@201.10.90.6:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl-cloud2.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇵🇱 Польша 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@89.187.144.24:443?encryption=none&type=xhttp&security=reality&sni=czeh.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=a1b2c3d4e5f6a7b8&fp=firefox&path=/media/segment&host=127.0.0.1&mode=stream-up#🇨🇿 Чехия 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@193.182.130.2:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-denmark.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇩🇰 Дания 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@13.143.188.102:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=belarus.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇧🇾 Беларусь
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@143.246.223.126:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-moldova.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇲🇩 Молдова 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@13.143.197.48:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-turkey.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇹🇷 Турция 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@88.210.55.45:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-ru-us.groznyshop.com&pbk=pdw_18nW-fVjXRkVLyNsbmg1h9QX7Qtg1ncKgoCsaUQ&fp=firefox#🇷🇺🇺🇸 Россия
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@104.171.132.209:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=msk-tw.groznyshop.com&pbk=3d7nyRRa_nvvGGERGcUhHxYmVNf1lFYzOIB9VM7oEzU&sid=8248954896&fp=qq#🇷🇺 Москва 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@83.217.212.194:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=moskva-ru-to-ru.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=qq#🇷🇺 Россия (Банки и RU-сервисы)
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@5.253.28.250:4443?encryption=none&type=xhttp&security=reality&sni=india.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=a1b2c3d4e5f6a7b8&fp=firefox&path=/static/getFile/video/segment.ts&mode=auto#🇮🇳 Индия 
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@kz.softmaster95.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=kazakstan.groznyshop.com&pbk=3d7nyRRa_nvvGGERGcUhHxYmVNf1lFYzOIB9VM7oEzU&sid=8248954896&fp=firefox#🇰🇿 Казахстан
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@31.129.42.15:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=random#🇷🇺 Россия (Антиблок OZONE)
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@87.228.101.220:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=piter87.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇷🇺 Россия (Антиблок Питер 87)
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@87.228.101.220:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=piter87.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=qq#🇷🇺 Россия (Антиблок Питер 87 QQ)
-
-vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@31.129.42.15:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=piter31.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=random#🇷🇺 Россия (Антиблок Питер 31)
 
 
  # Обычный впн
