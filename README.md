@@ -18,11 +18,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-hysteria2://PcsWELeKELxdGmpT_oj7Sqymfk1HJFDN@snap.packages.127-0-0-1.online:443?security=tls&fm=%7B%7D&sni=snap.packages.127-0-0-1.online#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A2%D1%83%D1%80%D0%B1%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%A4%96%20%7C%201
-hysteria2://PcsWELeKELxdGmpT_oj7Sqymfk1HJFDN@snap.packages.127-0-0-1.online:443?security=tls&fm=%7B%7D&sni=snap.packages.127-0-0-1.online#%F0%9F%87%AA%F0%9F%87%AA%20%D0%A2%D1%83%D1%80%D0%B1%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%A4%96%20%7C%202
-hysteria2://PcsWELeKELxdGmpT_oj7Sqymfk1HJFDN@snap.packages.127-0-0-1.online:443?security=tls&fm=%7B%7D&sni=snap.packages.127-0-0-1.online#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A2%D1%83%D1%80%D0%B1%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%A4%96%20%7C%203
-hysteria2://PcsWELeKELxdGmpT_oj7Sqymfk1HJFDN@snap.packages.127-0-0-1.online:443?security=tls&fm=%7B%7D&sni=snap.packages.127-0-0-1.online#%F0%9F%87%AE%F0%9F%87%B9%20%D0%A2%D1%83%D1%80%D0%B1%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%A4%96%20%7C%204
-
+vless://49d0632e-2f16-4d26-9724-89a4146cac29@video-balancer.7.8.advantage-a.cdnnow.xyz:443?type=tcp&headerType=none&security=reality&fp=firefox&sni=developer.fastly.com&pbk=AqMi_FZTRgZrKRMVMsT1QUYqD_yea049GDKq5Z7vp2Y&sid=5353102e919f84bf#🇦🇪 Дубай ⭐️
 
 
 # 
