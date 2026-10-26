@@ -18,7 +18,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-vless://8938315b-1fda-46cd-a2e9-dddf50545bd6@xzq.rottshieldsons.pics:2053?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=xzq.rottshieldsons.pics&pbk=xPmRjkBE_F0_Lh-61wEv3SoUn2dTRHZO5Ko7ZdOyTnM&sid=9b2653371e8cbc31#🇨🇦 Канада
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@ru10.oshost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ru10.oshost.network&pbk=_3IUJQUZn8wItirtxVlYwSTqZP8gc6aiDY2AMj9kqmA&sid=298b2ef12ea103cc#🇨🇦 Канада
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@147.45.139.23:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=netherlands-cdn.softmaster95.ru&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896#🇵🇭 Филиппины
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@31.76.88.77:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=helsinki-cloud2.groznyshop.com&pbk=3d7nyRRa_nvvGGERGcUhHxYmVNf1lFYzOIB9VM7oEzU&sid=8248954896#🇷🇺 Россия
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@187.124.214.63:4443/?type=xhttp&host=&path=/static/getFile/video/segment.ts&mode=auto&extra=%257B%250A%2520%2520%2522noSSEHeader%2522%2520:%2520false,%250A%2520%2520%2522xmux%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522cMaxLifetimeMs%2522%2520:%2520600000,%250A%2520%2520%2520%2520%2522cMaxReuseTimes%2522%2520:%2520%252264-128%2522,%250A%2520%2520%2520%2520%2522hKeepAlivePeriod%2522%2520:%25200,%250A%2520%2520%2520%2520%2522hMaxRequestTimes%2522%2520:%25200,%250A%2520%2520%2520%2520%2522maxConcurrency%2522%2520:%25202%250A%2520%2520%257D,%250A%2520%2520%2522xPaddingBytes%2522%2520:%2520%2522200-1200%2522%250A%257D&security=reality&fp=firefox&sni=uk-cloud1.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=a1b2c3d4e5f6a7b8#🇹🇷 Турция
@@ -26,32 +26,6 @@ vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@201.10.90.6:443/?flow=xtls-rprx-vis
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@201.10.90.6:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pl-cloud2.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896#🇮🇩 Индонезия
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@193.182.130.2:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cdn-denmark.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896#🇳🇱 Нидерланды
 vless://448280f3-d84d-4cbe-8c36-6aa362e4c0c0@104.171.132.209:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=msk-tw.groznyshop.com&pbk=3d7nyRRa_nvvGGERGcUhHxYmVNf1lFYzOIB9VM7oEzU&sid=8248954896#🇧🇷 Бразилия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@94.249.180.253:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇺🇸 США
-vless://07705657-b511-4872-9f1a-64fab263d7a1@2.27.118.47:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇪🇪 Эстония
-vless://07705657-b511-4872-9f1a-64fab263d7a1@191.217.212.14:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇳🇱 Нидерланды
-vless://07705657-b511-4872-9f1a-64fab263d7a1@154.86.119.185:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇬🇧 Великобритания
-vless://07705657-b511-4872-9f1a-64fab263d7a1@191.217.214.33:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇮🇹 Италия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@191.217.214.34:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇨🇿 Чехия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@2.26.191.34:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇫🇮 Финляндия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@mk-ru1.silalink.sbs:8443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=mk-ru1.silalink.sbs#🇵🇱 Польша
-
-
-vless://8938315b-1fda-46cd-a2e9-dddf50545bd6@geya.bivizandhead.online:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=geya.bivizandhead.online&pbk=DYZygG3SAwaVASLcFDQQ5-mD6I3vslQbQvPw4BP_jFg&sid=91843f43e9470b9c#🇸🇬 Сингапур.
-vless://8938315b-1fda-46cd-a2e9-dddf50545bd6@tere.rekonkista.icu:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=tere.rekonkista.icu&pbk=I_-Mb_q3_4-ZdzrzB6SKh-Zla1kKI4M_0OMjWDYXVxg&sid=13d8fbd7fd9e1ce8#🇩🇪 Германия.
-
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@de1.wrenandroad.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de1.wrenandroad.space&pbk=QzaWRXDK3h5CoqkUDMUV0ArgDjIldBnqbFJj_BG1FhE&sid=7e97c038d0255f36&fp=firefox#🇩🇪 Германия
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@de2.wrenandroad.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.wrenandroad.space&pbk=t4k236yDGdnUbfJSBl3KR7JzyLReVVRWEiVHMaE72XI&sid=9b2e8eb7fea9860b&fp=firefox#🇦🇺 Австралия
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@xuthnybd.himoy.space:443?encryption=none&type=xhttp&security=reality&sni=xuthnybd.himoy.space&pbk=uVqY1zxxrmKblAAEJilzrDK8Ayv7ETSxvNvGipLoX0w&sid=86f8bb8d537297da&fp=firefox&path=/connect&host=xuthnybd.himoy.space&mode=auto#🇵🇱 Польша
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@nl2.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl2.himoy.space&pbk=vWFi5WROH6RUA3U7MiULYSOBc9h1ZbXyYVUjwvvJn0E&sid=3bf45f37318782a0&fp=firefox#🇱🇺 Люксембург
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@vb41fwol.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vb41fwol.himoy.space&pbk=CwVoZSZr3MQ8IEaxOqmZRolV2Vw5Ve-hwhRLHuOerzg&sid=44aa59cc84b532ed&fp=firefox#🇩🇰 Дания
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@l415ng0o.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=l415ng0o.himoy.space&pbk=JOoD5ze_pwrMnQoAIRVieQM8SPJjiLJEw1fwx57iYgk&sid=bbd20b213341644c&fp=firefox#🇸🇬 Сингапур
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@tlokexcm.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tlokexcm.himoy.space&pbk=Pb37t99NiJqm-lsTi4tucPFqRXIsek-5G5dqjIqVfxE&sid=15c87d0b99c0d132&fp=firefox#🇧🇷 Бразилия
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@pl1.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl1.himoy.space&pbk=1D_oMYRytcccH8J2SiM9o0bjmWlDND9CXWLL8LwDvE8&sid=e2201d4d8b942ccc&fp=firefox#🇹🇭 Таиланд
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@pl2.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl2.himoy.space&pbk=eq1GsjxpRmENTkUfjk_QPWUUqGNHwESqoJ7yFs-WpF0&sid=7f9831bb156cc9e2&fp=firefox#🇬🇧 Великобритания
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@gcach6lm.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gcach6lm.himoy.space&pbk=4tMWqgTFL_uavocMXmgIWvB0rZvFQCOYQQIDZlJmaVQ&sid=fe5a2e4bb97c5331&fp=firefox#🇮🇸 Исландия
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@i3m2o0cf.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=i3m2o0cf.himoy.space&pbk=A9rT--Kugc8WElZSjNmq6K3oOD9BC7vTrIKK7E3scj4&sid=a40f97141bda09f0&fp=firefox#🇭🇺 Венгрия
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@fin3.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin3.himoy.space&pbk=2aGY0cy7IEqurjq5XBPv9gaZHhuod0RDBJUToyTSrws&sid=2764053a11bdeec7&fp=firefox#🇱🇹 Литва
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@fin4.himoy.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin4.himoy.space&pbk=36MwbI8-ScG1RGaNp7jGe-NMOm9HfvmdMP5vfY4_P3k&sid=0c3c7a686e566de2&fp=firefox#🇰🇷 Южная Корея
 
 # тест 🤙
 
