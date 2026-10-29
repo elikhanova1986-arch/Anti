@@ -20,15 +20,7 @@ vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-
 
 
 
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rutube.ru&pbk=t8HUCb-FGcQCU-zAPoG4AptHa7Ti6VMYTK77AM6D3FY&sid=c59d2fd7ad4fd6bc&fp=qq#🇲🇽 Мексика
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62444?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&pbk=wD0LQ1stcxppGqHMnDhrF4cq6bDYt9FBe3NfcMk72Ws&sid=612273d04c772675&fp=qq#🇱🇻 Латвия
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62445?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nalog.ru&pbk=P9Kr5EPAnfI8ri3ODMJstgzB4zefcjDuJcFDLpSYoHs&sid=ce823702a3e10b15&fp=qq#🇳🇴 Норвегия
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62446?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=mos.ru&pbk=m__ZTt0lD5sK0WiUUp6zVxAHK57e72eW4A7JSEC9hCs&sid=34e4beaf908b6603&fp=qq#🇵🇹 Португалия
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62447?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sberbank.ru&pbk=aLZChDoM7Uge6i3A9UcaeAxTlOXy5Gk697r1JfamRQM&sid=1f53b36d28141ef3&fp=qq#🇫🇷 Франция
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62448?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=wildberries.ru&pbk=-HoI5-ZTkj0_jNpYGXMOlCriLHVEDAUEMFJWALyHZl8&sid=577abdf959b04b89&fp=qq#🇸🇮 Словения
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@185.192.21.158:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dl.google.com&pbk=DZxMM1G3avek5YOvM3hOpiEKY74Jv9HPhZj1ViVg22M&sid=3b48f462abc98827&fp=qq#🇧🇷 Бразилия
-vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@149.33.5.129:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dl.google.com&pbk=C5juGhFhDkYWIenCXiIxBbtpdqcUjDiNLcV_9BnVCCA&sid=7d0e385f4a974440&fp=qq#🇷🇺 Россия
-vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@145.249.115.240:443?encryption=none&type=grpc&security=reality&sni=nl-cloud3.groznyshop.com&pbk=aIB8O0rQggo-7VfQUU_WWBHQ6muuM1KnBsS3PMtJRDg&sid=a1b2c3d4e5f6a7b8&fp=firefox&serviceName=media-stream-v1#🇪🇸 Испания
+
 vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@147.45.139.23:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=netherlands-cdn.softmaster95.ru&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇧🇪 Бельгия
 vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@77.239.122.176:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-cloud2.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇮🇸 Исландия
 vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@72.56.85.153:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn-est-nedh.groznyshop.com&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&fp=firefox#🇵🇭 Филиппины
