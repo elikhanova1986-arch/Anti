@@ -18,9 +18,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&pbk=hs_t4GGFsx-JBOfctKSHjMvVqLpmPA9bfiss3Y2DsRM&sid=19eac476&spx=%2F#🇦🇪 Дубай ⭐️ 
 
-vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=hs_t4GGFsx-JBOfctKSHjMvVqLpmPA9bfiss3Y2DsRM&sid=19eac476&spx=%2F&type=tcp&headerType=none#🇪🇺 Основной | ⚠️ 1
-vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=hs_t4GGFsx-JBOfctKSHjMvVqLpmPA9bfiss3Y2DsRM&sid=19eac476&spx=%2F&type=tcp&headerType=none#🇪🇺 Основной | ⚠️ 2
-vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=hs_t4GGFsx-JBOfctKSHjMvVqLpmPA9bfiss3Y2DsRM&sid=19eac476&spx=%2F&type=tcp&headerType=none#🇪🇺 Основной | ⚠️ 3
+
 
 vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rutube.ru&pbk=t8HUCb-FGcQCU-zAPoG4AptHa7Ti6VMYTK77AM6D3FY&sid=c59d2fd7ad4fd6bc&fp=qq#🇲🇽 Мексика
 vless://235805a8-18bf-4c1e-ab54-d8d1b5b6e9d9@188.225.25.72:62444?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&pbk=wD0LQ1stcxppGqHMnDhrF4cq6bDYt9FBe3NfcMk72Ws&sid=612273d04c772675&fp=qq#🇱🇻 Латвия
