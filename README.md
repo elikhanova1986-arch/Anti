@@ -21,15 +21,27 @@ vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-
 
 
 
-vless://07705657-b511-4872-9f1a-64fab263d7a1@94.249.180.253:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇯🇵 Япония
-vless://07705657-b511-4872-9f1a-64fab263d7a1@2.27.118.47:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇩🇪 Германия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@191.217.212.14:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇱🇺 Люксембург
-vless://07705657-b511-4872-9f1a-64fab263d7a1@154.86.119.185:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇨🇿 Чехия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@191.217.214.33:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇸🇮 Словения
-vless://07705657-b511-4872-9f1a-64fab263d7a1@191.217.214.34:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇬🇪 Грузия
-vless://07705657-b511-4872-9f1a-64fab263d7a1@45.144.52.28:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇳🇱 Нидерланды
-vless://07705657-b511-4872-9f1a-64fab263d7a1@186.243.168.11:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇺🇿 Узбекистан
-vless://07705657-b511-4872-9f1a-64fab263d7a1@80.47.3.19:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇵🇹 Португалия
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.247.50:9882?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇫🇮 Быстрый 1
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@168.113.252.102:9831?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇫🇮 Быстрый 2
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.157.95:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇫🇮 Быстрый 3
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.247.50:9873?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇫🇮 Быстрый 4
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@168.113.252.39:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇫🇮 Быстрый 5
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.138.255:9443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.io.ozone.ru&fp=chrome&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&spx=%2F&type=tcp&headerType=none#🇫🇮 Быстрый 6
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.240.65:9889?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇫🇮 Быстрый 7
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.139.215:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇮🇹 Быстрый 8
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.139.215:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇮🇹 Быстрый 9
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.157.95:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇮🇹 Быстрый 10
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@168.113.252.102:9831?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇮🇹 Быстрый 11
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.240.65:9889?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇮🇹 Быстрый 12
+vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@145.249.115.240:443?encryption=none&security=reality&sni=nl-cloud3.groznyshop.com&fp=firefox&pbk=aIB8O0rQggo-7VfQUU_WWBHQ6muuM1KnBsS3PMtJRDg&sid=a1b2c3d4e5f6a7b8&type=grpc&mode=gun&authority=&serviceName=media-stream-v1#🇮🇹 Быстрый 13
+vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@2.26.84.84:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=germany2.groznyshop.com&fp=firefox&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&type=tcp&headerType=none#🇮🇹 Быстрый 14
+vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@nl-cdn-take.groznyshop.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl-cdn-take.groznyshop.com&fp=firefox&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&type=tcp&headerType=none#🇬🇧 Быстрый 15
+vless://086047bb-9daf-439c-8c3b-085ff3cfd7e6@143.246.223.126:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdn-moldova.groznyshop.com&fp=firefox&pbk=2ZEPNsIsqOa7USRGpHOUXWHwExY1a2BApNlQ4UQk8WM&sid=8248954896&type=tcp&headerType=none#🇬🇧 Быстрый 16
+vless://ec3e34f1-0a06-4e01-ace0-c121daf21de6@84.252.101.66:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=hs_t4GGFsx-JBOfctKSHjMvVqLpmPA9bfiss3Y2DsRM&sid=19eac476&spx=%2F&type=tcp&headerType=none#🇬🇧 Быстрый 17
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.247.50:9882?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇬🇧 Быстрый 18
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@168.113.252.102:9831?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇬🇧 Быстрый 19
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.157.95:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇬🇧 Быстрый 20
+vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.247.50:9873?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇬🇧 Быстрый 21
 vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@176.108.247.50:9882?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇦🇪 ОАЭ
 vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@168.113.252.102:9831?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇦🇿 Азербайджан
 vless://64a95aa6-42d4-4bac-ac03-99b809bfd706@82.202.157.95:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇲🇽 Мексика
