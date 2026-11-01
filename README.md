@@ -44,6 +44,18 @@ vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@utkcusxx.failspace.top:443?encrypti
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top#🇨🇿 Чехия
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@gemini.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=gemini.failspace.top#🇮🇹 Италия
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@files22.imagi-nation.zip:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=files22.imagi-nation.zip#🇹🇭 Таиланд
+
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇷 Быстрый 1
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇷🇺 Быстрый 2
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇸🇪 Быстрый 3
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇪🇺 Быстрый 4
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇨🇦 Быстрый 5
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇬🇧 Быстрый 6
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇩🇪 Быстрый 7
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇮🇹 Быстрый 8
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇮 Быстрый 9
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Быстрый 10
+
 # тест 🤙
 
 vless://7bb28df1-a972-42ce-b573-dc0d76b1e612@194.55.239.183:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bench-two.hysteria.ltd#🇫🇷 Антизаглушка ⁽ᵗᵉˢᵗ ⁿᵉʷ⁾ 1
