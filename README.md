@@ -17,12 +17,6 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-vless://e28bc956-c2a4-4ad5-81be-57da2322407b@194.55.235.202:58889?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=9f8e7d6c5b4a3210&fp=chrome#🇻🇳 test сервера⚡️ 1
-vless://e28bc956-c2a4-4ad5-81be-57da2322407b@185.147.27.141:58888?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=payment-widget.plus.kinopoisk.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2&fp=chrome#🇰🇬 test сервера⚡️ 2
-vless://e28bc956-c2a4-4ad5-81be-57da2322407b@194.55.235.202:58889?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=9f8e7d6c5b4a3210&fp=chrome#🇰🇷 test сервера⚡️ 3
-vless://e28bc956-c2a4-4ad5-81be-57da2322407b@185.147.27.141:58888?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=payment-widget.plus.kinopoisk.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2&fp=chrome#🇩🇪 test сервера⚡️ 4
-vless://e28bc956-c2a4-4ad5-81be-57da2322407b@194.55.235.202:58889?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=9f8e7d6c5b4a3210&fp=chrome#🇱🇹 test сервера⚡️ 5
-vless://e28bc956-c2a4-4ad5-81be-57da2322407b@185.147.27.141:58888?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=payment-widget.plus.kinopoisk.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2&fp=chrome#🇱🇻 test сервера⚡️ 6
 
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇷 Быстрый 1
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇷🇺 Быстрый 2
