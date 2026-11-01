@@ -18,7 +18,8 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 vless://c648b912-06e8-4308-82d0-5b1753a3c5c9@s1.chrsila.com:8443?encryption=none&type=xhttp&path=/storage/api&mode=auto&security=reality&sni=s1.chrsila.com&fp=chrome&pbk=d2XxbGZwo4es1gMl7Cw9aO9oo3XOIn9XGGFSA9C4yGA&sid=a10e773fa20aff50&spx=/#🇦🇪 Test server 1
 vless://c648b912-06e8-4308-82d0-5b1753a3c5c9@72.56.237.18:443?encryption=none&type=xhttp&path=/storage/api&mode=auto&security=reality&sni=ya.ru&fp=chrome&pbk=3TDUPKlszBYk74cz7skndIEqzDsw6KEIW1SV9Hx9x2k&sid=c74ee3c779ea703d&spx=/#🇦🇪 Test server 2
 vless://c648b912-06e8-4308-82d0-5b1753a3c5c9@89.111.173.26:443?encryption=none&type=xhttp&path=/storage/api&mode=auto&security=reality&sni=ya.ru&fp=chrome&pbk=3TDUPKlszBYk74cz7skndIEqzDsw6KEIW1SV9Hx9x2k&sid=c74ee3c779ea703d&spx=/#🇦🇪 Test server 3
-
+vless://a64d2baf-fb07-432f-9a54-5b9931b30cfb@187.52.45.82:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.sciencedirect.com&pbk=05ZMGI4Lq1IkIUXt77kc2SA-q9IDf9I08tK2oPUl1k4&sid=a2b2c4d4a1b2c3d5&fp=firefox#🇪🇺 Test server
+vless://a64d2baf-fb07-432f-9a54-5b9931b30cfb@187.52.45.81:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.sciencedirect.com&pbk=05ZMGI4Lq1IkIUXt77kc2SA-q9IDf9I08tK2oPUl1k4&sid=a2b2c4d4a1b2c3d5&fp=firefox#🇪🇺 Test server
 
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇷 Быстрый 1
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇷🇺 Быстрый 2
