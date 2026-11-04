@@ -20,19 +20,30 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@mhiqrbso.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=mhiqrbso.failspace.top#🇸🇪 Швеция
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@poland-new-new.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=poland-new-new.failspace.top#🇪🇪 Эстония
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@cneupmgv.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cneupmgv.failspace.top#🇦🇪 ОАЭ
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@ebwlvplr.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=ebwlvplr.failspace.top#🇰🇬 Киргизия
-
-
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@mhiqrbso.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=mhiqrbso.failspace.top#🇪🇸 Испания
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@poland-new-new.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=poland-new-new.failspace.top#🇦🇷 Аргентина
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@cneupmgv.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cneupmgv.failspace.top#🇭🇰 Гонконг
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@ebwlvplr.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=ebwlvplr.failspace.top#🇭🇺 Венгрия
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@crizrcnb.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=crizrcnb.failspace.top#🇭🇷 Хорватия
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@axlhrybf.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=axlhrybf.failspace.top#🇨🇿 Чехия
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@emgiepoj.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=emgiepoj.failspace.top#🇯🇵 Япония
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@ukjfzjqh.failspace.top:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=ukjfzjqh.failspace.top#🇨🇭 Швейцария
+vless://81121453-1c2c-44e2-a022-a0fff61df118@1.1.1.1:443?security=reality&type=tcp&headerType=&path=&host=&sni=ru-node1.champmoney.ru&fp=chrome&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 1
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node1.champmoney.ru:13443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 2
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node1.champmoney.ru:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 3
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node1.champmoney.ru:8443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 4
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node6.champmoney.ru:7443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 5
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node1.champmoney.ru:9443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 6
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node1.champmoney.ru:10443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 7
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node6.champmoney.ru:12443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 8
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ru-node6.champmoney.ru:8043?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 9
+vless://81121453-1c2c-44e2-a022-a0fff61df118@vk.champmoney.ru:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 10
+vless://81121453-1c2c-44e2-a022-a0fff61df118@vk.champmoney.ru:8443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 11
+vless://81121453-1c2c-44e2-a022-a0fff61df118@vk.champmoney.ru:8043?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 12
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ecs.champmoney.ru:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 13
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ecs.champmoney.ru:8443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 14
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ecs.champmoney.ru:7443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 15
+vless://81121453-1c2c-44e2-a022-a0fff61df118@ecs.champmoney.ru:8043?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 16
+vless://81121453-1c2c-44e2-a022-a0fff61df118@mts.champmoney.ru:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 17
+vless://81121453-1c2c-44e2-a022-a0fff61df118@mts.champmoney.ru:8443?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 18
+vless://81121453-1c2c-44e2-a022-a0fff61df118@mts.champmoney.ru:8043?security=reality&type=tcp&headerType=&path=&host=&sni=www.lgcity.ru&fp=firefox&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 19
+vless://81121453-1c2c-44e2-a022-a0fff61df118@82.202.143.158:13443?security=reality&type=tcp&headerType=&path=&host=&sni=ru-node2.champmoney.ru&fp=chrome&pbk=7TIFbbAHELNWG8-nmLxL-2CijeOQYsP1vK4CtFMUDHI&sid=deadbeef#🇪🇺 Тестовый 20
+trojan://GuBWYEDAL246P6RVPRiuoA@mbr.rkn-pediki.site:443?security=tls&type=ws&headerType=&path=/flow/&host=mbr.rkn-pediki.site&sni=mbr.rkn-pediki.site&fp=firefox#🇪🇺 Тестовый 21
+trojan://GuBWYEDAL246P6RVPRiuoA@mbr.rkn-pediki.site:443?security=tls&type=ws&headerType=&path=/flow-stat/&host=mbr.rkn-pediki.site&sni=mbr.rkn-pediki.site&fp=firefox#🇪🇺 Тестовый 22
+trojan://GuBWYEDAL246P6RVPRiuoA@mbr.rkn-pediki.site:443?security=tls&type=ws&headerType=&path=/flow-direct/&host=mbr.rkn-pediki.site&sni=mbr.rkn-pediki.site&fp=firefox#🇪🇺 Тестовый 23
+trojan://GuBWYEDAL246P6RVPRiuoA@mbr.rkn-pediki.site:443?security=tls&type=ws&headerType=&path=/flow-poll/&host=mbr.rkn-pediki.site&sni=mbr.rkn-pediki.site&fp=firefox#🇪🇺 Тестовый 24
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@files-ru.voidsector.org:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=files-ru.voidsector.org#🇧🇪 Бельгия
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@files-ru2.voidsector.org:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=files-ru2.voidsector.org#🇪🇪 Эстония
 vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@files-ru4.voidsector.org:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=files-ru4.voidsector.org#🇰🇷 Южная Корея
