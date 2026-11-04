@@ -99,11 +99,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7IgVlBOICh0ZXN0KSA5IiwiYWRkIjoicmVuZGVyZXIt
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7kgVlBOICh0ZXN0KSAxMCIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0xLTg3MS5taXJyYS5ub3ciLCJwb3J0Ijo0NDMsImlkIjoiZGRmNDhjNTUtNWFhMC00Y2MxLTg0MWYtMjUwZDc1MTJhMzQ2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9wdDJ1Y25zaGJ1anEvc29ja2V0IiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTg3MS5taXJyYS5ub3ciLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMS04NzEubWlycmEubm93IiwiZnAiOiJmaXJlZm94IiwiYWxwbiI6ImgyIiwic2VydmVyRGVzY3JpcHRpb24iOiIifQ==
 
 
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇷 Быстрый 1
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇷🇺 Быстрый 2
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇸🇪 Быстрый 3
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇪🇺 Быстрый 4
-vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇨🇦 Быстрый 5
 
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og0JDQvdGC0LjQs9C70YPRiNC40LvQutCwIDEiLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS04NzEubWlycmEubm93IiwicG9ydCI6NDQzLCJpZCI6ImY5ZWZkNTUxLTgwMTgtNDhkYS04Yjk1LWQyNmU2ZDAwYjgyZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vcHQydWNuc2diNGpxL3NvY2tldCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS04NzEubWlycmEubm93Iiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtODcxLm1pcnJhLm5vdyIsImZwIjoiZmlyZWZveCIsImFscG4iOiJoMiIsInNlcnZlckRlc2NyaXB0aW9uIjoiIn0=
