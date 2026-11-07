@@ -17,10 +17,11 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇳🇱 Быстрый ⚡️ 1
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇩🇪 Быстрый ⚡️ 2
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇫🇮 Быстрый ⚡️ 3
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇮🇹 Быстрый ⚡️ 4
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇦🇪 Быстрый ⚡️ 5
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@nl4.the-tech.studio:443?encryption=none&type=tcp&security=reality&sni=netherlands.the-tech.studio&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&sid=bc24914f1d0cb2d7&fp=firefox#🇦🇪 Быстрый 1
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@nl6.the-tech.studio:443?encryption=none&type=tcp&security=reality&sni=netherlands.the-tech.studio&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&sid=bc24914f1d0cb2d7&fp=firefox#🇦🇪 Быстрый 2
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@nl7.the-tech.studio:443?encryption=none&type=tcp&security=reality&sni=netherlands.the-tech.studio&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&sid=bc24914f1d0cb2d7&fp=firefox#🇨🇿 Быстрый 3
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@de3.the-tech.studio:443?encryption=none&type=tcp&security=reality&sni=avito.ru&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&sid=bc24914f1d0cb2d7&fp=firefox#🇨🇿 Быстрый 4
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@ge1.the-tech.studio:443?encryption=none&type=tcp&security=reality&sni=avito.ru&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&sid=bc24914f1d0cb2d7&fp=firefox#🇪🇺 Быстрый 5
 
 
 
